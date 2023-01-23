@@ -1,11 +1,11 @@
 # AnSchultze18.github.io
 
 ## **atls2200.github.io**
-#### Projects
+### Projects
 ##### HTML
 ##### CSS
 ##### JS
-#### In-Class Assignments
+### In-Class Assignments
 ##### ICA 1
 ##### ICA 2
 ##### ICA 3
@@ -21,7 +21,7 @@
 ##### ICA 13
 ##### ICA 14
 ##### ICA 15
-#### Weekly Assignments 
+### Weekly Assignments 
 ##### WA 1
 ##### WA 2
 ##### WA 3
