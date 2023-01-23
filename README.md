@@ -7,6 +7,7 @@
 ##### JS
 ### In-Class Assignments
 ##### ICA 1
+  [In-Class Assignment 1 is being pulled from Google Docs](https://docs.google.com/document/d/1esSKxQ-tJMZd2tXkVazWOk83NGvoe8pjp5blJxbiFnI/edit?usp=sharing)
 ##### ICA 2
 ##### ICA 3
 ##### ICA 4
