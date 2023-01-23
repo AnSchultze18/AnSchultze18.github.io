@@ -24,6 +24,7 @@
 ##### ICA 15
 ### Weekly Assignments 
 ##### WA 1
+  [Weekly Assignment 1 being pulled from GitHub](https://anschultze18.github.io/wa/wa1.html)
 ##### WA 2
 ##### WA 3
 ##### WA 4
