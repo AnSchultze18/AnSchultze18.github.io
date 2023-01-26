@@ -9,6 +9,7 @@
 ##### ICA 1
   [In-Class Assignment 1 is being pulled from Google Docs](https://docs.google.com/document/d/1esSKxQ-tJMZd2tXkVazWOk83NGvoe8pjp5blJxbiFnI/edit?usp=sharing)
 ##### ICA 2
+  [In-Class Assignment 1 is being pulled from Google Docs](https://docs.google.com/document/d/1nsLPJE98QJZxQCIhYfC5jyj4pBHq3m67mRq6bsX2AKM/edit?usp=sharing)
 ##### ICA 3
 ##### ICA 4
 ##### ICA 5
@@ -24,8 +25,9 @@
 ##### ICA 15
 ### Weekly Assignments 
 ##### WA 1
-  [Weekly Assignment 1 being pulled from GitHub](https://anschultze18.github.io/wa/wa1.html)
+  [Weekly Assignment 1 from GitHub](https://anschultze18.github.io/wa/wa1.html)
 ##### WA 2
+  [Weekly Assignment 1 from GitHub](https://anschultze18.github.io/wa/wa2.html)
 ##### WA 3
 ##### WA 4
 ##### WA 5
