@@ -27,7 +27,7 @@
 ##### WA 1
   [Weekly Assignment 1 from GitHub](https://anschultze18.github.io/wa/wa1.html)
 ##### WA 2
-  [Weekly Assignment 1 from GitHub](https://anschultze18.github.io/wa/wa2.html)
+  [Weekly Assignment 2 from GitHub](https://anschultze18.github.io/wa/wa2.html)
 ##### WA 3
 ##### WA 4
 ##### WA 5
