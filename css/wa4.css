@@ -60,8 +60,8 @@ body {
   }
   
   .card article img {
-    max-height: 100%
-    float right;
+    max-height: 100%;
+    float: right;
   }
 
   .card article p {
@@ -77,7 +77,7 @@ body {
   }
   
   html {
-    font-family: Georgia, 'Times New Roman', Times, serif
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 15px;
     background-color: #ccc;
   }
@@ -132,8 +132,8 @@ body {
   }
   
   .card2 article img {
-    max-height: 100%
-    float right;
+    max-height: 100%;
+    float: right;
   }
 
   .card2 article p {
