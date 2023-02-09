@@ -1,4 +1,4 @@
-/* General styles - put these straight into your stylesheet */
+/* General styles */
 
 body {
     margin: 0;
@@ -10,9 +10,7 @@ body {
     background-color: #ccc;
   }
   
-  /* Selectors to be matched up with rulesets */
-  
-  /* Rulesets to be matched up with selectors */
+  /* card setup */
   
   .card {
     width: 35em;
@@ -22,7 +20,7 @@ body {
     border: 0.2em solid black;
     border-radius: 1.5em;
   }
-
+  
   .card h2, .card p {
     margin: 0;
   }
@@ -43,17 +41,19 @@ body {
     background-image: linear-gradient(to bottom,rgba(0,0,0,0), rgba(0,0,0,0.1));
     border-radius: 0 0 1.5em 1.5em;
   }
-
+  
   .card header h2 {
     font-size: 2em;
     line-height: 1.5;
   }
-
+  
   .card footer p {
     font-size: 1.5em;
     line-height: 2;
   }
-
+  
+  /* Main body of card (article) */
+  
   .card article {
     height: 12em;
     background-color: rgba(0,0,0,0.25);
@@ -63,38 +63,28 @@ body {
     max-height: 100%;
     float: right;
   }
-
+  
   .card article p {
     padding: 1em;
     color: rgba(255,255,255,0.8);
   }
-
-
-/* General styles - put these straight into your stylesheet */
-
-body {
-    margin: 0;
-  }
   
-  html {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 15px;
-    background-color: #ccc;
-  }
   
-  /* Selectors to be matched up with rulesets */
   
-  /* Rulesets to be matched up with selectors */
+  
+  
+  
+  
   
   .card2 {
     width: 35em;
     height: 22em;
     margin: 5em auto;
-    background-color: rgb(253, 209, 255);
+    background-color: rgb(255, 216, 245);
     border: 0.2em solid black;
     border-radius: 1.5em;
   }
-
+  
   .card2 h2, .card2 p {
     margin: 0;
   }
@@ -109,34 +99,41 @@ body {
   .card2 header {
     background-image: linear-gradient(to bottom,rgba(0,0,0,0.1), rgba(0,0,0,0));
     border-radius: 1.5em 1.5em 0 0;
+    font-family: 'Times New Roman', Times, serif;
   }
   
   .card2 footer {
     background-image: linear-gradient(to bottom,rgba(0,0,0,0), rgba(0,0,0,0.1));
     border-radius: 0 0 1.5em 1.5em;
+    font-family: 'Times New Roman', Times, serif;
   }
-
+  
   .card2 header h2 {
     font-size: 2em;
     line-height: 1.5;
+    font-family: 'Times New Roman', Times, serif;
   }
-
+  
   .card2 footer p {
     font-size: 1.5em;
     line-height: 2;
+    font-family: 'Times New Roman', Times, serif;
   }
-
+  
+  /* Main body of card (article) */
+  
   .card2 article {
     height: 12em;
-    background-color: rgba(0,0,0,0.25);
+    background-color: rgba(202, 214, 157, 0.25);
+    font-family: 'Times New Roman', Times, serif;
   }
   
   .card2 article img {
     max-height: 100%;
     float: right;
   }
-
+  
   .card2 article p {
     padding: 1em;
-    color: rgba(255,255,255,0.8);
+    color: rgba(0, 0, 0, 0.8);
   }
