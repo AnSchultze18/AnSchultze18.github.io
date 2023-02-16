@@ -1,0 +1,25 @@
+.container {
+    position: relative;
+    width: 60%;
+    margin: auto;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#overlay {
+    position: absolute;
+    bottom: 85%;
+    right: 5%;
+    width: 10%;
+}
+
+#overlay1 {
+    position: absolute;
+    bottom: 5%;
+    left: 5%;
+    width: 20%;
+}
