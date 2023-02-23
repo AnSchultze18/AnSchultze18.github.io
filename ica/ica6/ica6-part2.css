@@ -44,11 +44,6 @@ body{
     grid-column: 2;
 
 }
-#no#{
-
-    grid-row: 4;
-    grid-column: 3;
-}
 #no1{
 
     grid-row: 1;
