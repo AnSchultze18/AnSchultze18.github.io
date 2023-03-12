@@ -1,0 +1,164 @@
+/* For Mobile Portrait View */
+@media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+  body {
+    width: 200px;
+    height: 200px;
+    background-color: #FFEFEF;
+    color: #726358;
+    margin: 20px;
+    font-family: serif;
+    font-size: 100%;
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0;
+  }
+
+  .logo {
+    font-size: 250%;
+    font-style: normal;
+    padding: 10px 10px;
+    margin: 20px;
+    max-width: 200px;
+    font-family: serif;
+    color: #4D4439;
+  }
+
+  .grid {
+    /* margin: 0 auto;
+    padding: 0 20px; */
+    max-width: 1450px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    gap: 20px;
+  }
+  
+  nav {
+    background-color: #E2D1BC;
+    padding: .5em;
+    top: 0;
+    position: stick;
+  }
+  
+  nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 100%;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: .5em 1em;
+  }
+  
+  .photos {
+    /*list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 1px;
+    grid-template-columns: 1fr 1fr */
+
+    display:flex;
+    flex-direction: column;
+    gap: 8px;
+    list-style-type:none;
+  }
+
+  .feature {
+      width: 400px;
+      float: left;
+      margin: 0 20px 20px 0;
+  }
+ 
+}
+
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+  body {
+    background-color: #FFEFEF;
+    color: #726358;
+    margin: 20px;
+    font-family: serif;
+    font-size: 100%;
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+    margin: 0;
+}
+
+.logo {
+  font-size: 250%;
+  font-style: normal;
+  padding: 10px 10px;
+  margin: 20px;
+  max-width: 980px;
+  font-family: serif;
+  color: #4D4439;
+}
+
+.grid {
+  /* margin: 0 auto;
+  padding: 0 20px; */
+  max-width: 1450px;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  gap: 20px;
+}
+
+nav {
+  background-color: #E2D1BC;
+  padding: .5em;
+  top: 0;
+  position: stick;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 100%;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: .5em 1em;
+}
+
+nav a:hover{
+  color: #726358;
+}
+
+.photos {
+  /*list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1px;
+  grid-template-columns: 1fr 1fr */
+
+  display:flex;
+  flex-direction: column;
+  gap: 8px;
+  list-style-type:none;
+}
+
+.feature {
+    width: 400px;
+    float: left;
+    margin: 0 20px 20px 0;
+}
+
+}

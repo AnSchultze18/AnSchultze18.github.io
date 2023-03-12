@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightgrey;
+}
+nav{
+    height: 50vh;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height:20px;
+    background-color: #812511;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+nav a{
+    width:10vw;
+    text-align: center;
+    text-decoration: none;
+    color: #7398b2;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+nav a:hover{
+    color: white;
+}
+
+
+img{
+    width:30vw;
+    height: 30vh;
+}
