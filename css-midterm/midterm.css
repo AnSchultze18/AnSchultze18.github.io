@@ -1,5 +1,5 @@
 /* For Mobile Portrait View */
-@media screen and (max-device-width: 480px)
+@media screen and (max-device-width: 400px)
 and (orientation: portrait) {
   body {
     width: 200px;
@@ -40,7 +40,7 @@ and (orientation: portrait) {
     background-color: #E2D1BC;
     padding: .5em;
     top: 0;
-    position: stick;
+    position: sticky;
   }
   
   nav ul {
@@ -119,7 +119,7 @@ nav {
   background-color: #E2D1BC;
   padding: .5em;
   top: 0;
-  position: stick;
+  position: sticky;
 }
 
 nav ul {
