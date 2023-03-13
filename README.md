@@ -41,3 +41,7 @@
 ##### WA 13
 ##### WA 14
 ##### WA 15
+##### MIDTERM 1- HTML
+  [Midterm 1- HTML from Github](https://anschultze18.github.io/html-midterm/)
+##### MIDTERM 2- CSS
+  [Midterm 2- CSS from Github](https://anschultze18.github.io/css-midterm/midterm.html)
