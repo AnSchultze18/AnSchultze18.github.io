@@ -1,5 +1,5 @@
 /* For Mobile Portrait View */
-@media screen and (max-device-width: 400px)
+@media screen and (min-width: 400px)
 and (orientation: portrait) {
   body {
     width: 200px;
