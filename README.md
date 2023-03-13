@@ -42,6 +42,10 @@
 ##### WA 14
 ##### WA 15
 ##### MIDTERM 1- HTML
-  [Midterm 1- HTML from Github](https://anschultze18.github.io/html-midterm/)
+  [Midterm 1 Page 1- HTML from Github](https://anschultze18.github.io/html-midterm/page1.html)
+  [Midterm 1 Page 2- HTML from Github](https://anschultze18.github.io/html-midterm/page2.html)
+  [Midterm 1 Page 3- HTML from Github](https://anschultze18.github.io/html-midterm/page3.html)
+  [Midterm 1 Page 4- HTML from Github](https://anschultze18.github.io/html-midterm/page4.html)
+  [Midterm 1 Page 5- HTML from Github](https://anschultze18.github.io/html-midterm/page5.html)
 ##### MIDTERM 2- CSS
   [Midterm 2- CSS from Github](https://anschultze18.github.io/css-midterm/midterm.html)
