@@ -9,10 +9,10 @@ function randomValueFromArray(array){
   return array[random];
 }
 
-let storyText = 'On a freezing cold day in January, about 2 degrees fahrenheit, :insertx: decided to go on a ski trip. They decided to put on their favorite :inserty: to prepare for the trip. When they got up to the mountain everyone was making fun of them, even a little girl threw a giant :insertz: at their head that weighed about 20 pounds.'; 
-let insertX = ['Dwayne "The Rock" Johnson', 'Martha Stewart', 'Drake', 'CeeLo Green', 'Jamie Lee Curtis'];
-let insertY = ['ballgown', 'top hat', 'gorilla costume', 'fedora'];
-let insertZ = ['meat loaf', 'bowling pin', 'water balloon', 'chinchilla', 'leprechaun'];
+let storyText = 'It was a 60 degree day in the spring in Boulder, Colorado, :insertx: was getting ready for his spring break trip to Jamaica. They decided to put on their favorite :inserty: before starting to pack to get them in the ~mood~. As they were finishing packing their 50 pound suitcase, they heard a loud crash! A :insertz: flew through the window, ruining all the clothes they packed for the trip. Annika walked in the room and her jaw fell on the floor. Oh well, better luck next year!'; 
+let insertX = ['Justin Bieber', 'Santa', 'Drake', 'Nicki Minaj', 'Cardi B'];
+let insertY = ['dress', 'beanie', 'nail polish', 'biker gloves'];
+let insertZ = ['giant pizza', 'water balloon', 'paint ball', 'bird', 'leprechaun'];
 randomize.addEventListener('click', result);
 function result() {
   let newStory = storyText;
@@ -28,14 +28,14 @@ newStory = newStory.replace(':insertz:', zItem);
 
     if(customName.value !== '') {
       const name = customName.value;
-      newStory = newStory.replace('a little girl', name)+ '';
+      newStory = newStory.replace('Annika', name)+ '';
     }
   
     if(document.getElementById("uk").checked) {
-      const weight = Math.round(300/14) + ' stone';
-      const temperature =  Math.round((94-32)*(5/9)) + ' degrees centigrade';
-      newStory = newStory.replace("2 degrees fahrenheit", temperature);  
-      newStory = newStory.replace("20 pounds", weight); 
+      const weight = Math.round(50/2.174) + ' kilogram';
+      const temperature =  Math.round((60-32)*(5/9)) + ' degrees celsius';
+      newStory = newStory.replace("60 degree", temperature);  
+      newStory = newStory.replace("50 pound", weight); 
     }
   
     story.textContent = newStory;
