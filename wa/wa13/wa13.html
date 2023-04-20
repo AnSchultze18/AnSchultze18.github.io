@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Volume Control</title>
+    <title>Volume Changer</title>
     <link rel="stylesheet" href="wa13.css">
 </head>
 <body>
-    <h1>Volume Control</h1>
-    <button id="volumeUpButton">Volume Up</button>
-    <button id="volumeDownButton">Volume Down</button>
-    <input type="range" id="volumeSlider" min="0" max="100" value="50">
+    <h1>Volume Changer</h1>
+    <div id="volumeContainer">
+        <input type="number" id="volumeInput" min="0" max="100" step="1">
+        <button id="increaseBtn">Increase Volume</button>
+        <button id="decreaseBtn">Decrease Volume</button>
+    </div>
     <div id="volumeStatus">Volume: 50</div>
 
     <script src="wa13.js"></script>
