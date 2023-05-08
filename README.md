@@ -42,7 +42,7 @@
 ##### ICA 13
   [In-Class Assignment 13 from Github](https://anschultze18.github.io/ica/ica13/ica13.html),
 ##### ICA 14
-  [In-Class Assignment 14 from Mapbox]([http://annikaschultze.me/wa/wa14/wa14.html](https://api.mapbox.com/styles/v1/anschultze18/clgwgi2dd003x01r76ajm0mej.html?title=view&access_token=pk.eyJ1IjoiYW5zY2h1bHR6ZTE4IiwiYSI6ImNsZ3dmMjM0YTJ3ZDYzZnAzd3piMjE1ZzQifQ.ffobzxaf3ev-AozKJy3BmA&zoomwheel=true&fresh=true#5.42/53.255/-4.019)),
+  [In-Class Assignment 14 from Mapbox]([http://annikaschultze.me/wa/wa14/wa14.html](https://api.mapbox.com/styles/v1/anschultze18/clgwgi2dd003x01r76ajm0mej.html?title=view&access_token=pk.eyJ1IjoiYW5zY2h1bHR6ZTE4IiwiYSI6ImNsZ3dmMjM0YTJ3ZDYzZnAzd3piMjE1ZzQifQ.ffobzxaf3ev-AozKJy3BmA&zoomwheel=true&fresh=true#5.42/53.255/-4.019),
 ##### ICA 15
 ### Weekly Assignments 
 ##### WA 1
