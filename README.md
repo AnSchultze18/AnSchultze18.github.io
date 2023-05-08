@@ -24,11 +24,11 @@
 ##### ICA 5
   [In-Class Assignment 5 from Github](https://anschultze18.github.io/ica/ica5.html),
 ##### ICA 6
-  [In-Class Assignment 6 from Github Pt1](https://anschultze18.github.io/ica/ica6-part1.html),
-  [In-Class Assignment 6 from Github Pt2](https://anschultze18.github.io/ica/ica6-part2.html),
-  [In-Class Assignment 6 from Github Pt3](https://anschultze18.github.io/ica/ica6-part3.html),
+  [In-Class Assignment 6 from Github Pt1](https://anschultze18.github.io/ica/ica6/ica6-part1.html),
+  [In-Class Assignment 6 from Github Pt2](https://anschultze18.github.io/ica/ica6/ica6-part2.html),
+  [In-Class Assignment 6 from Github Pt3](https://anschultze18.github.io/ica/ica6/ica6-part3.html),
 ##### ICA 7
-  [In-Class Assignment 7 from Github](https://anschultze18.github.io/ica/ica7.html),
+  [In-Class Assignment 7 from Github](https://anschultze18.github.io/ica/ica7/ica7.html),
 ##### ICA 8
 
 ##### ICA 9
