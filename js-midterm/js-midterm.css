@@ -7,15 +7,12 @@
 }
 
 :root {
-  --light-pink: #FCD1F0;
+  --light-pink: #FFEFEF;
   --light-grey: #e5e4e2;
   --white: #f9f8f6;
-  --dark-pink: #D62EA7;
-  --dark-purple: #992ED6;
-  --light-blue: #9AD7FC;
-  --purple: #CA9AFC;
-  --dark-purple: #992ED6;
-  --black: #000;
+  --dark-pink: #E2D1BC;
+  --dark-purple: #726358;
+  --black: #4D4439;
 }
 
 body {
@@ -55,8 +52,8 @@ body {
   cursor: pointer;
   width: 200px;
   color: var(--black);
-  background-color: var(--light-blue);
-  background-image: linear-gradient(var(--purple), var(--dark-purple));
+  background-color: var(--dark-pink);
+  background-image: linear-gradient(var(--dark-pink), var(--white));
   border-color: var(--white);
   border-width: 3px;
   font-size: 1.2rem;
@@ -65,7 +62,7 @@ body {
 }
 
 .btn:hover {
-  background-image: linear-gradient(var(--dark-pink), var(--light-pink));
+  background-image: var(--light-grey);
 }
 
 #madlib-text {
