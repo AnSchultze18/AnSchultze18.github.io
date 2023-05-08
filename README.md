@@ -3,16 +3,26 @@
 ## **atls2200.github.io**
 ### Projects
 ##### HTML
+  [Midterm 1 Page 1- HTML from Github](https://anschultze18.github.io/html-midterm/page1.html),
+  [Midterm 1 Page 2- HTML from Github](https://anschultze18.github.io/html-midterm/page2.html),
+  [Midterm 1 Page 3- HTML from Github](https://anschultze18.github.io/html-midterm/page3.html),
+  [Midterm 1 Page 4- HTML from Github](https://anschultze18.github.io/html-midterm/page4.html),
+  [Midterm 1 Page 5- HTML from Github](https://anschultze18.github.io/html-midterm/page5.html),
 ##### CSS
+  [Midterm 2- CSS from Github](https://anschultze18.github.io/css-midterm/midterm.html)
 ##### JS
 ### In-Class Assignments
 ##### ICA 1
-  [In-Class Assignment 1 from Google Docs](https://docs.google.com/document/d/1esSKxQ-tJMZd2tXkVazWOk83NGvoe8pjp5blJxbiFnI/edit?usp=sharing)
+  [In-Class Assignment 1 from Google Docs](https://docs.google.com/document/d/1esSKxQ-tJMZd2tXkVazWOk83NGvoe8pjp5blJxbiFnI/edit?usp=sharing),
 ##### ICA 2
-  [In-Class Assignment 2 from Google Docs](https://docs.google.com/document/d/1nsLPJE98QJZxQCIhYfC5jyj4pBHq3m67mRq6bsX2AKM/edit?usp=sharing)
+  [In-Class Assignment 2 from Google Docs](https://docs.google.com/document/d/1nsLPJE98QJZxQCIhYfC5jyj4pBHq3m67mRq6bsX2AKM/edit?usp=sharing),
 ##### ICA 3
+  [In-Class Assignment 3 from Github](https://anschultze18.github.io/ica/ica3-part2/ica3a.html),
+  [In-Class Assignment 3 from Github Pt2](https://anschultze18.github.io/ica/ica3-part2/ica3b.html),
 ##### ICA 4
+  [In-Class Assignment 4 from Github](https://anschultze18.github.io/ica/ica4.html),
 ##### ICA 5
+ [In-Class Assignment 5 from Github](https://anschultze18.github.io/ica/ica5.html),
 ##### ICA 6
 ##### ICA 7
 ##### ICA 8
@@ -41,11 +51,3 @@
 ##### WA 13
 ##### WA 14
 ##### WA 15
-##### MIDTERM 1- HTML
-  [Midterm 1 Page 1- HTML from Github](https://anschultze18.github.io/html-midterm/page1.html),
-  [Midterm 1 Page 2- HTML from Github](https://anschultze18.github.io/html-midterm/page2.html),
-  [Midterm 1 Page 3- HTML from Github](https://anschultze18.github.io/html-midterm/page3.html),
-  [Midterm 1 Page 4- HTML from Github](https://anschultze18.github.io/html-midterm/page4.html),
-  [Midterm 1 Page 5- HTML from Github](https://anschultze18.github.io/html-midterm/page5.html),
-##### MIDTERM 2- CSS
-  [Midterm 2- CSS from Github](https://anschultze18.github.io/css-midterm/midterm.html)
