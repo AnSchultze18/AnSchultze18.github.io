@@ -9,8 +9,9 @@
   [Midterm 1 Page 4- HTML from Github](https://anschultze18.github.io/html-midterm/page4.html),
   [Midterm 1 Page 5- HTML from Github](https://anschultze18.github.io/html-midterm/page5.html),
 ##### CSS
-  [Midterm 2- CSS from Github](https://anschultze18.github.io/css-midterm/midterm.html)
+  [Midterm 2- CSS from Github](https://anschultze18.github.io/css-midterm/midterm.html),
 ##### JS
+  [MIdterm 3- JS from Github](https://anschultze18.github.io/js-midterm/js-midterm.html),
 ### In-Class Assignments
 ##### ICA 1
   [In-Class Assignment 1 from Google Docs](https://docs.google.com/document/d/1esSKxQ-tJMZd2tXkVazWOk83NGvoe8pjp5blJxbiFnI/edit?usp=sharing),
@@ -43,22 +44,33 @@
   [In-Class Assignment 13 from Github](https://anschultze18.github.io/ica/ica13/ica13.html),
 ##### ICA 14
   [In-Class Assignment 14 from Mapbox](https://api.mapbox.com/styles/v1/anschultze18/clgwgi2dd003x01r76ajm0mej.html?title=view&access_token=pk.eyJ1IjoiYW5zY2h1bHR6ZTE4IiwiYSI6ImNsZ3dmMjM0YTJ3ZDYzZnAzd3piMjE1ZzQifQ.ffobzxaf3ev-AozKJy3BmA&zoomwheel=true&fresh=true#5.42/53.255/-4.019),
-##### ICA 15
 ### Weekly Assignments 
 ##### WA 1
   [Weekly Assignment 1 from GitHub](https://anschultze18.github.io/wa/wa1.html)
 ##### WA 2
   [Weekly Assignment 2 from GitHub](https://anschultze18.github.io/wa/wa2.html)
 ##### WA 3
+  [Weekly Assignment 3 from GitHub](https://anschultze18.github.io/wa/wa3.html)
 ##### WA 4
+  [Weekly Assignment 4 from GitHub](https://anschultze18.github.io/wa/wa4.html)
 ##### WA 5
-##### WA 6 
+  [Weekly Assignment 5 from GitHub](https://anschultze18.github.io/wa/wa5.html)
+##### WA 6
+  [Weekly Assignment 6 from GitHub](https://anschultze18.github.io/wa/wa6/wa6.html)
 ##### WA 7 
+  [Weekly Assignment 7 from GitHub](https://anschultze18.github.io/wa/wa7/wa7.html)
 ##### WA 8 
+
 ##### WA 9
+  [Weekly Assignment 9 from GitHub](https://anschultze18.github.io/wa/assignment9/assignment9.html)
 ##### WA 10 
+  [Weekly Assignment 10 from GitHub](https://anschultze18.github.io/wa/wa9/wa9.html)
 ##### WA 11
+  [Weekly Assignment 11 from GitHub](https://anschultze18.github.io/wa/wa11/wa11.html)
 ##### WA 12
+  [Weekly Assignment 12 from GitHub](https://anschultze18.github.io/wa/wa12/wa12.html)
 ##### WA 13
+  [Weekly Assignment 13 from GitHub](https://anschultze18.github.io/wa/wa13/wa13.html)
 ##### WA 14
-##### WA 15
+  [Weekly Assignment 14 from GitHub](https://anschultze18.github.io/wa/wa14/wa14.html)
+
